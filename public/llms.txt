@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Experience unparalleled luxury at our crystal springs resort destination. Indulge in world-class amenities, stunning accommodations, and unforgettable moments. Book your escape today.
+
+### Rooms
+https://example.com/rooms
+Immerse yourself in elegantly designed suites and rooms featuring modern comforts and breathtaking views. Find your perfect retreat at our resort hotel paradise.
+
+### Experiences
+https://example.com/experiences
+Elevate your stay with curated experiences from spa treatments to adventure tours. Enjoy marriott all inclusive resorts quality with personalized service and endless possibilities.
+
+### Contact
+https://example.com/contact
+Connect with our concierge team to plan your perfect getaway. American express fine hotels and resorts members enjoy exclusive benefits. Reach out now for personalized assistance.
+
+### Products
+https://example.com/products
+Our Products - Santa Casa Resort
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Santa Casa Resort
+
+### Category
+https://example.com/category/:slug
+Products - Santa Casa Resort
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
